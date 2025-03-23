@@ -1,0 +1,21 @@
+# Ignore everything
+node_modules/*
+uploads
+upgrade
+.idea
+mu-plugins
+plugins/*
+themes/*
+ai1wm-backups
+languages
+debug.log
+.DS_Store
+
+
+# But not these files...
+!.gitignore
+!themes/flyfive
+!themes/gulpfile.js
+!themes/package.json
+!themes/package-lock.json
+# etc...
