@@ -1,0 +1,2 @@
+# WordPressGitIgnoreFiles
+WordPress GitIgnore Files
